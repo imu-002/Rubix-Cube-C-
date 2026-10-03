@@ -19,7 +19,7 @@ namespace Rubix_Cube_C_sharp
     {
         public static Form1 instance;
         Button[] fr1;
-        Button[] fr2;k
+        Button[] fr2;
         Button[] fr3;
         Button[] fc1;
         Button[] fc2;
