@@ -1,6 +1,6 @@
 # Rubik's Cube (C# / Windows Forms)
 
-A desktop Rubik's Cube you can turn, scramble and reset, drawn as an unfolded 2D cube. Built as a second-year university group project.
+A desktop Rubik's Cube you can turn, scramble and reset, drawn as an unfolded 2D cube. Built as a university group project.
 
 ## What it does
 
